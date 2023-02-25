@@ -56,6 +56,7 @@ function App() {
                     <div style={{minHeight: 1000}}>
                         <div>
                             Tritium Gaming Studios is an small business that aims to bring innovative mobile software solutions to the forefront.
+                            New content is planned to be added soon.
                         </div>
                     </div>
                 </div>
