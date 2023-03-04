@@ -24,6 +24,7 @@ function App() {
         <Fragment>
 
             <div className={'app'}>
+
                 <div className={'banner-wrapper'}>
                     <div className={'banner-inner'}>
                         <div className={'banner-label-wrapper'}>
@@ -38,7 +39,7 @@ function App() {
                     </div>
                 </div>
 
-                <div className={'hero-background'} style={{backgroundColor:"black"}}>
+                <div className={'hero-background'}>
                     <div className={'hero-inner'}>
                         <div style={{display:"flex", margin:"auto"}}>
                             <div style={{display:"flex", margin:"auto"}}>
